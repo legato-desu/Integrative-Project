@@ -58,10 +58,12 @@ pip install -r requirements.txt
 - Bajo "Requisitos previos", menciona el archivo `requirements.txt` y el comando necesario para instalar las dependencias.
 - También puede listar las bibliotecas (en este caso, `matplotlib` y `numpy`) para que quede claro qué se está instalando.
 
-```bash
-pip install matplotlib
-pip install numpy
-```
+   ```bash
+   ip install matplotlib
+   ```
+   ```bash
+   pip install numpy
+   ```
 
 ## Capturas de Pantalla
 <img width="378" height="214" src= "https://github.com/user-attachments/assets/3bba4e60-c7bb-44a1-b3cc-23f87ef6aa49"/>
